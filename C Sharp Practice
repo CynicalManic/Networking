@@ -1,0 +1,70 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C_SHARP_Project
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //int width = 0;
+            //int height = 0;
+            //Console.WriteLine("Please Enter The Width:");
+            //width = Int32.Parse(Console.ReadLine());
+            //Console.WriteLine("Please Enter The Height");
+            //height = Int32.Parse(Console.ReadLine());
+            //Console.WriteLine("The Area = ");
+            //Console.WriteLine(width * height);
+            //Console.WriteLine("The Perimiter = ");
+            //Console.WriteLine(width + width + height + height);
+            //Console.ReadLine();
+
+            //int maxValue;
+            //Console.WriteLine("Input 10 Values");
+            //maxValue = Int32.Parse(Console.ReadLine());
+            //for(int i = 0; i < 9; i++)
+            //{
+            //    int value = Int32.Parse(Console.ReadLine());
+            //    if (maxValue < value)
+            //    {
+            //        maxValue = value;
+            //    }                
+            //}
+            //Console.WriteLine(maxValue);
+            //Console.ReadLine();
+
+            //Console.WriteLine("Enter 10 integers");
+            //int[] valueArray = new int[10];
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    valueArray[i] = Int32.Parse(Console.ReadLine());
+            //}
+
+            //for (int i = 9; i > -1; i--)
+            //{
+            //    Console.WriteLine(valueArray[i]);
+            //}
+            //Console.ReadLine();
+
+            //Random rnd = new Random();
+            //int answer = rnd.Next(1, 100);
+            
+            //while(answer != 0)
+            //{
+            //    if (answer == Int32.Parse(Console.ReadLine()))
+            //    {
+            //        answer = 0;
+            //        Console.WriteLine("You Guessed Correctly!");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Try Again");
+            //    }
+            //}
+            //Console.ReadLine();
+        }
+    }
+}
